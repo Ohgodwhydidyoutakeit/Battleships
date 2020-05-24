@@ -121,7 +121,9 @@ function handleClick(e) {
 
 // function for alarming when the boxes are nearby
     // prototypr:
-            /* whe 
+            /* try thinkins of something else 
+            testing branching
+            
             
             
             */
